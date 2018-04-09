@@ -1,8 +1,8 @@
 
 * {
    box-sizing: border-box;
-   margin-left: 10px;
-   margin-right: 10px;
+   margin-left: 0px;
+   margin-right: 0px;
    padding: 0px;
    text-align: center;
    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -39,17 +39,11 @@ ul.content {
 }
 
 #box1 {
-	position: relative;
 	background-color: #FF329F;}
 #box2 {
-    position: relative;	
-    float: right;
     background-color: #FFB6FF;}
 #box3 {
-    position: relative;
-    top: 60%;
-    float: left;
-	background-color: #14FFFF;}
+    background-color: #14FFFF;}
 
 .row {
 	width: 100%;
